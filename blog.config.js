@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Chenxia Blog',
   author: 'Chenxia',
-  email: 'xuchenlong796@qq.com',
+  email: 'xuchenlong796@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
