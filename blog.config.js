@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Chenxia's Blog',
+  title: 'Chenxia Blog',
   author: 'Chenxia',
   email: 'xuchenlong796@gmail.com',
   link: 'https://nobelium.vercel.app',
@@ -38,7 +38,7 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: 'https://github.com/chenxia31/blog-comments', // The repository of store comments
       owner: 'chenxia31',
