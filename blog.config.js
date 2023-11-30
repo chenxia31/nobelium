@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/chenxia31',
+  socialLink: 'https://twitter.com/clouds_dirty',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
@@ -41,8 +41,8 @@ const BLOG = {
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: 'https://github.com/chenxia31/blog-comments', // The repository of store comments
-      owner: 'xuchenlong796@qq.com',
-      admin: ['xuchenlong796@qq.com'],
+      owner: 'chenxia31',
+      admin: ['chenxia31'],
       clientID: '86bed78dcfb8225c7713',
       clientSecret: '661d2612b7751b012be29e092c27ebd38da6ce56',
       distractionFreeMode: false
