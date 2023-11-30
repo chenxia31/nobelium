@@ -38,14 +38,14 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: '', // The repository of store comments
-      owner: '',
-      admin: [],
+      repo: 'https://github.com/chenxia31/blog-comments', // The repository of store comments
+      owner: 'chenxia31',
+      admin: ['chenxia31'],
       clientID: '86bed78dcfb8225c7713',
       clientSecret: '74ea88972fcac75ca0ed7736d6e834f4c2e67d5f',
-      distractionFreeMode: false
+      distractionFreeMode: True
     },
     utterancesConfig: {
       repo: ''
