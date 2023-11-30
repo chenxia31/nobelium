@@ -43,8 +43,8 @@ const BLOG = {
       repo: '', // The repository of store comments
       owner: '',
       admin: [],
-      clientID: '',
-      clientSecret: '',
+      clientID: '86bed78dcfb8225c7713',
+      clientSecret: '74ea88972fcac75ca0ed7736d6e834f4c2e67d5f',
       distractionFreeMode: false
     },
     utterancesConfig: {
