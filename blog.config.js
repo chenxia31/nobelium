@@ -45,7 +45,7 @@ const BLOG = {
       admin: ['chenxia31'],
       clientID: '86bed78dcfb8225c7713',
       clientSecret: '74ea88972fcac75ca0ed7736d6e834f4c2e67d5f',
-      distractionFreeMode: True
+      distractionFreeMode: False
     },
     utterancesConfig: {
       repo: ''
